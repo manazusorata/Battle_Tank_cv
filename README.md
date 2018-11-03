@@ -6,3 +6,6 @@ ATTENTIONT:This is just a course-following project.
 * BT01:Intro,Notes and Assets
 * BT02:Game Design Document(GDD)
 * BT03:Setting Up a GitHub "Repo"
+* BT04:Start Project
+* BT05:Landscaping Process
+* BT06:Tank Combined and Camera Input Setup
